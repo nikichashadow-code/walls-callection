@@ -23,6 +23,31 @@
 
 ---
 
+## 🔍 Search & Filter
+
+### Quick Search
+<div align="center">
+
+**Search this repository on GitHub:**  
+[![GitHub Search](https://img.shields.io/badge/Search-walls--callection-blue?logo=github&style=flat-square)](https://github.com/nikichashadow-code/walls-callection/search)
+
+Or use the GitHub search box at the top of this repository page.
+
+</div>
+
+### 🏷️ Quick Category Navigation
+Jump directly to your favorite wallpaper collection:
+
+| Category | Wallpapers | Filter |
+|----------|-----------|--------|
+| 🌸 **Anime Walls** | 35+ | [View Folder](https://github.com/nikichashadow-code/walls-callection/tree/main/anime-walls) |
+| 🌸 **Cozy** | 2 | [View Folder](https://github.com/nikichashadow-code/walls-callection/tree/main/cozy) |
+| ❄️ **Winter Wallpaper** | 11 | [View Folder](https://github.com/nikichashadow-code/walls-callection/tree/main/winter%20wallpaper) |
+| 🏞️ **Wallhaven** | 14 | [View Folder](https://github.com/nikichashadow-code/walls-callection/tree/main/wallhaven) |
+| 🎨 **My Wallpaper Pack** | 6 | [View Folder](https://github.com/nikichashadow-code/walls-callection/tree/main/my%20wallpaper%20pack) |
+
+---
+
 ## Overview
 
 **Walls Collection** is my personal curated repository featuring over 100 high-quality wallpapers across diverse themes and aesthetics. This collection represents my personal preferences and selections, featuring options for any mood or aesthetic preference—whether I'm looking for serene landscapes, artistic designs, anime-inspired art, or minimalist aesthetics.
